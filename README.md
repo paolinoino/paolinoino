@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paolinoino
 - 👀 I’m interested in osint
-- 🌱 I’m currently learning shell scripting
+- 🌱 I’m currently learning shell scripting and python
 - 💞️ I’m looking to collaborate on osint tools
 - 📫 How to reach me ...
 
